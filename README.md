@@ -14,5 +14,4 @@ En este módulo dejaré las siguientes prácticas.
 - Crear Wireframe UX
 - Desarrollar la Interfaz de Usuario
 
-Gracias :D
-*** ¡Rodolfo Alejandro! ***
+**Rodolfo Alejandro**
