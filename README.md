@@ -1,7 +1,5 @@
 # Frontend-LaunchX
-##FrontEnd Mision
-
-# Introducción a la programación FrontEnd
+## Introducción a la programación FrontEnd
 
 Bienvenido, estás entrando a ver las primeras misiones en mi camino para convertirme en un FullStack Developer :D
 
@@ -12,6 +10,4 @@ En este módulo dejaré las siguientes prácticas.
 - Creación de Buyer Person
 - Elaborar Público Objetivo
 - Crear Wireframe UX
-- Desarrollar la Interfaz de Usuario
-
-**Rodolfo Alejandro**
+- Desarrollar la Interfaz de Usuario.
